@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rulovargas
-- 👀 I’m interested in become a frontend developer
+- 👀 I’m interested in become in a frontend developer
 - 🌱 I’m currently learning javascript, HTML, CSS, etc
 - 📫 How to reach me... IG @rulovace
 
